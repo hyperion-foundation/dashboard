@@ -1,4 +1,5 @@
 # Hyperion Dashboard Page
+The **stable** version of **Hyperion Foundation Dashboard Page**. 
 ## Tech stack
 - PHP 8.0+
 - Laravel 9 (v9.x)
